@@ -1,3 +1,78 @@
 {
-    "streams": []
+  "streams": [
+    {
+      "title": "stream 1",
+      "description": "great stream",
+      "id": 1
+    },
+    {
+      "title": "stream 1",
+      "description": "great stream",
+      "id": 2
+    },
+    {
+      "title": "stream 1",
+      "description": "great stream",
+      "id": 3
+    },
+    {
+      "title": "stream 1",
+      "description": "great stream",
+      "id": 4
+    },
+    {
+      "title": "stream 1",
+      "description": "great stream",
+      "id": 5
+    },
+    {
+      "title": "stream 1",
+      "description": "great stream",
+      "id": 6
+    },
+    {
+      "title": "great",
+      "description": "great stream ",
+      "id": 7
+    },
+    {
+      "title": "first stream",
+      "description": "this is a good stream",
+      "id": 8
+    },
+    {
+      "title": "iujks",
+      "description": "8uuasij",
+      "id": 9
+    },
+    {
+      "title": "user id stream",
+      "description": "The user id is associated with this stream",
+      "userId": "109675744708476609937",
+      "id": 10
+    },
+    {
+      "title": "programatic nav",
+      "description": "this shouldnt be on form page",
+      "userId": "109675744708476609937",
+      "id": 11
+    },
+    {
+      "title": "new stream",
+      "description": "indian food",
+      "userId": "109675744708476609937",
+      "id": 12
+    },
+    {
+      "title": "tr",
+      "description": "new stream",
+      "id": 13
+    },
+    {
+      "title": "greeatttt idc",
+      "description": "8uhknjm ",
+      "userId": "109675744708476609937",
+      "id": 14
+    }
+  ]
 }
