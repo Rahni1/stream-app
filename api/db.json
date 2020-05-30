@@ -46,24 +46,6 @@
       "id": 9
     },
     {
-      "title": "user id stream",
-      "description": "The user id is associated with this stream",
-      "userId": "109675744708476609937",
-      "id": 10
-    },
-    {
-      "title": "programatic nav",
-      "description": "this shouldnt be on form page",
-      "userId": "109675744708476609937",
-      "id": 11
-    },
-    {
-      "title": "new stream",
-      "description": "indian food",
-      "userId": "109675744708476609937",
-      "id": 12
-    },
-    {
       "title": "tr",
       "description": "new stream",
       "id": 13
